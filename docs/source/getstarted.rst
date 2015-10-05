@@ -677,7 +677,7 @@ Using two mutators at same time
    the mutation process, set the *random apply* parameter of the :class:`FunctionSlot.FunctionSlot`
    class to True ::
 
-      >>> genome.mutator.setRandomApply(true)
+      >>> genome.mutator.setRandomApply(True)
 
 Using one allele for all list (chromosome) elements (genes)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
